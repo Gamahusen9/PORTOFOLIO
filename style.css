@@ -663,8 +663,8 @@
 
         .bc{
             position: absolute; 
-            font-size: 70px; 
-            margin-top: 60px;
+            font-size: 85px; 
+            margin-top: 100px;
             rotate: -20deg;
             z-index: 1;
         }
@@ -672,7 +672,7 @@
         .content_1 {
             background-color:  rgb(21, 33, 38);
             width: auto;
-            height: 310px;
+            height: 500px;
         }
 
         .backend {
@@ -694,6 +694,20 @@
             font-size: 30px;
             text-align: center;
             color: orange;
+        }
+
+        .content_1 p {
+            position: relative;
+            color: white;
+            background-color: red;
+            width: 120px;
+            padding: 1px;
+            height: 30px;
+            text-align: center;
+            border-radius: 10px;
+            z-index: 2;
+            margin-top: 20px;
+            margin-left: 50px;
         }
 
         .content_2 img {
@@ -768,6 +782,10 @@
 
         }
 
+        #skl{
+            margin-left: 70px;
+        }
+
         .content_3 p {
             text-align: center;
             color: white;
@@ -836,7 +854,7 @@
 
         .content_3 .text{
             display: flex;
-            padding-right: 30px;
+            justify-content: space;
         }
         
 
@@ -852,52 +870,52 @@
 
         #javascript {
             background-color: orange;
-            width: 20px;
+            width: 173px;
         }
 
         #laravel {
             background-color: orange;
-            width: 20px;
+            width: 277px;
         }
 
         #nodejs {
             background-color: orange;
-            width: 20px;
+            width: 111px;
         }
 
         #mysql {
             background-color: orange;
-            width: 20px;
+            width: 296px;
         }
 
         #cpp {
             background-color: orange;
-            width: 20px;
+            width: 351px;
         }
 
         #vuejs {
             background-color: orange;
-            width: 20px;
+            width: 185px;
         }
 
         #git {
             background-color: orange;
-            width: 20px;
+            width: auto;
         }
 
         #github {
             background-color: orange;
-            width: 20px;
+            width: 362.6px;
         }
 
         #php {
             background-color: orange;
-            width: 20px;
+            width: auto;
         }
 
         #boostrap {
             background-color: orange;
-            width: 20px;
+            width: 362.6px;
         }
 
         
