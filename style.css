@@ -9,10 +9,10 @@
             margin: 0;
             padding: 0;
             scroll-behavior: smooth;
+            font-family: Pangram-bold;
         }
 
         body {
-            font-family: Pangram-bold;
             margin: 0;
             padding: 0;
             width: 100%;
